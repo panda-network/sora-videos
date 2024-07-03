@@ -1,4 +1,156 @@
 {
+    "videos":[
+        {
+            "title": "Basics of animation in Readymag",
+            "cover": "https://i.ytimg.com/vi/Z21sbyccFPk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAacz74CHRjIkF2YIRsP9LIejZiug",
+            "cardLink": "https://www.youtube.com/watch?v=Z21sbyccFPk"
+        },
+        {
+            "title": "Lottie in Readymag",
+            "cover": "https://i.ytimg.com/vi/Za1gIxjcJO8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-zwE4tP_FZLb6brWqBsITZ58hfQ",
+            "cardLink": "https://www.youtube.com/watch?v=Za1gIxjcJO8"
+        },
+        {
+            "title": "Animations Update in Readymag",
+            "cover": "https://i.ytimg.com/vi/sj4G4LWRODQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgeIEsofzAP&rs=AOn4CLBTGCoB4C8I51vRLJOrX7hpa1TAzg",
+            "cardLink": "https://www.youtube.com/watch?v=sj4G4LWRODQ"
+        },
+        {
+            "title": "Basic content editing in Readymag",
+            "cover": "https://i.ytimg.com/vi/iV7qkSPsboU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz2E_JBhGWtHm6-jFFxJnmATnS4w",
+            "cardLink": "https://www.youtube.com/watch?v=iV7qkSPsboU"
+        },
+        {
+            "title": "Connecting a domain in Readymag",
+            "cover": "https://i.ytimg.com/vi/rOisaXwqbyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBafut_Dk6UvFNaWKVfBS1Bqa86bA",
+            "cardLink": "https://www.youtube.com/watch?v=rOisaXwqbyk"
+        },
+        {
+            "title": "Group widgets editing in Readymag",
+            "cover": "https://i.ytimg.com/vi/PQvImeRpJv4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHS_fltAcIK3cH_kPltiHned6YLQ",
+            "cardLink": "https://www.youtube.com/watch?v=PQvImeRpJv4"
+        },
+        {
+            "title": "Readymag for business presentations, start-up pitch decks, and reports",
+            "cover": "https://i.ytimg.com/vi/wNXJrhyinYo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK1nsxiPWghYDWAFUT_vjJfAkivQ",
+            "cardLink": "https://www.youtube.com/watch?v=wNXJrhyinYo"
+        },
+        {
+            "title": "Transferring pages in Readymag",
+            "cover": "https://i.ytimg.com/vi/ti9okz_02b0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClzPQmbtCR2KJmwwHPuihvoUjVZA",
+            "cardLink": "https://www.youtube.com/watch?v=ti9okz_02b0"
+        },
+        {
+            "title": "More flexible auto-layouting options for mobile in Readymag",
+            "cover": "https://i.ytimg.com/vi/F4u7LYGc_4I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1ssnzpBqXnIH0BFSk2CwN6FLY_Q",
+            "cardLink": "https://www.youtube.com/watch?v=F4u7LYGc_4I"
+        },
+        {
+            "title": "Links in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=KmogiFIuELc"
+        },
+        {
+            "title": "Shadows in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=SMss5KDJovg"
+        },
+        {
+            "title": "Password protection in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=NJ6bqcrN7Cg"
+        },
+        {
+            "title": "Fixed widgets for titles, menus, and animations",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=wQO12RjDg-o"
+        },
+        {
+            "title": "Readymag round-up 2022",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=QuPL199T6YY"
+        },
+        {
+            "title": "Introducing Comments",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=Fqy0wRP6B0I"
+        },
+        {
+            "title": "Getting Started in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=YSxO3Lc2LKU"
+        },
+        {
+            "title": "Introducing Readymag Editor 3.0",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=3_-_0EsiGio"
+        },
+        {
+            "title": "Creating an online shop in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=BxzM2uWeXXM"
+        },
+        {
+            "title": "Custom Code in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=6wnUuBVjwSA"
+        },
+        {
+            "title": "Hotspot Updated in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=zeJpjvi_Upg"
+        },
+        {
+            "title": "Websites Explained: The Debris of Attention",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=hrTBdnRTYfo"
+        },
+        {
+            "title": "Working with Button Widget in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=2-mUPD9qsIw"
+        },
+        {
+            "title": "Working with Hotspots in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=KFpnLZvl4jw"
+        },
+        {
+            "title": "Working with Images and Slideshows in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=A1hGzYRTU-A"
+        },
+        {
+            "title": "Creating a Hamburger Menu in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=RxYoyOnd0WE"
+        },
+        {
+            "title": "What is Readymag?",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=AFnNCE40KCo"
+        },
+        {
+            "title": "Working with Form Widget in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=EcIotp3pfIc"
+        },
+        {
+            "title": "E-commerce Updated in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=CxoJwtkq4Wc"
+        },
+        {
+            "title": "Working with Text in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=wVeK41WT08c"
+        },
+        {
+            "title": "Text Widget 2.0 in Readymag",
+            "cover": null,
+            "cardLink": "https://www.youtube.com/watch?v=cdzrB_2Bs8Q"
+        }
+    ],
     "templates":[
         {
             "created": "2024-04-08T09:30:32.225Z",
