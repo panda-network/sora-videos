@@ -159,56 +159,47 @@
         {
             "title": "Working with Form Widget in Readymag",
             "cover": "https://i.ytimg.com/vi/EcIotp3pfIc/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDseKRyQt1U-LseXEUouGSyrhwj-Q",
-            "cardLink": "https://www.youtube.com/watch?v=EcIotp3pfIc",
-            "backgroundColor": "#2e3192"
+            "cardLink": "https://www.youtube.com/watch?v=EcIotp3pfIc"
         },
         {
             "title": "E-commerce Updated in Readymag",
             "cover": "https://i.ytimg.com/vi/CxoJwtkq4Wc/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHDEUHAvbs3bbySce7GxyPxwXSeA",
-            "cardLink": "https://www.youtube.com/watch?v=CxoJwtkq4Wc",
-            "backgroundColor": "#ffffff"
+            "cardLink": "https://www.youtube.com/watch?v=CxoJwtkq4Wc"
         },
         {
             "title": "Working with Text in Readymag",
             "cover": "https://i.ytimg.com/vi/wVeK41WT08c/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfotUe3H-ppw16pl3RitzHfBrUEw",
-            "cardLink": "https://www.youtube.com/watch?v=wVeK41WT08c",
-            "backgroundColor": "#2e3192"
+            "cardLink": "https://www.youtube.com/watch?v=wVeK41WT08c"
         },
         {
             "title": "Text Widget 2.0 in Readymag",
             "cover": "https://i.ytimg.com/vi/cdzrB_2Bs8Q/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-vsjwMmmpd2pgkCy9IwOMRllijQ",
-            "cardLink": "https://www.youtube.com/watch?v=cdzrB_2Bs8Q",
-            "backgroundColor": "#282828"
+            "cardLink": "https://www.youtube.com/watch?v=cdzrB_2Bs8Q"
         },
         {
             "title": "Project Settings 2.0 in Readymag",
             "cover": "https://i.ytimg.com/vi/Bw2IZRYc3QM/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfRRlrmLTyvTHPSfBbhYaDIc2bsQ",
-            "cardLink": "https://www.youtube.com/watch?v=Bw2IZRYc3QM",
-            "backgroundColor": "#ffffff"
+            "cardLink": "https://www.youtube.com/watch?v=Bw2IZRYc3QM"
         },
         {
             "title": "Setting Up Your Home Project in Readymag",
             "cover": "https://i.ytimg.com/vi/dzxNTA9x2ho/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRF7U9_6RMJiXSNJcpXgpiPJ9ghg",
-            "cardLink": "https://www.youtube.com/watch?v=dzxNTA9x2ho",
-            "backgroundColor": "#fe0072"
+            "cardLink": "https://www.youtube.com/watch?v=dzxNTA9x2ho"
         },
         {
             "title": "Creating a Menu with On-Hover Effects in Readymag",
             "cover": "https://i.ytimg.com/vi/8ymVQdJSyro/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB18vqJ5x_K16gsZQJBPGmDrYAnVw",
-            "cardLink": "https://www.youtube.com/watch?v=8ymVQdJSyro",
-            "backgroundColor": "#006837"
+            "cardLink": "https://www.youtube.com/watch?v=8ymVQdJSyro"
         },
         {
             "title": "Creating a Scrollbar Combined with a Menu in Readymag",
             "cover": "https://i.ytimg.com/vi/48bq6lC-1cY/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACt_ZzRLW_KZi6J-aPcU_vrFnXtA",
-            "cardLink": "https://www.youtube.com/watch?v=48bq6lC-1cY",
-            "backgroundColor": "#006837"
+            "cardLink": "https://www.youtube.com/watch?v=48bq6lC-1cY"
         },
         {
             "title": "Creating an Unusual Geometric Menu with On-Hover Effects in Readymag",
             "cover": "https://i.ytimg.com/vi/mDNvnRb54Ig/maxresdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3z5fJWqg7G9ukO6MhP2VGJ3zMXg",
-            "cardLink": "https://www.youtube.com/watch?v=mDNvnRb54Ig",
-            "backgroundColor": "#006837"
+            "cardLink": "https://www.youtube.com/watch?v=mDNvnRb54Ig"
         }
     ],
     "templates":[
